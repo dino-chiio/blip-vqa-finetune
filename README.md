@@ -26,5 +26,5 @@ Copy all data following the example form
 
 ### References:
 
-> Nguyen Van Tuan*, Do Dinh Truong, Nguyen-Khang Le, Tin Pham. (2023). JAIST_Advanced Machine Learning_Visual_Question_Answering
+> Nguyen Van Tuan (2023). JAIST_Advanced Machine Learning_Visual_Question_Answering
 
