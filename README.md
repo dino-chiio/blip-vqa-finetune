@@ -11,6 +11,7 @@ This implementation applies the BLIP pre-trained model to solve the icon domain 
 ## Create data folder
 
 Copy all data following the example form
+You can download data [here](https://drive.google.com/file/d/1tt6qJbOgevyPpfkylXpKYy-KaT4_aCYZ/view?usp=sharing)
 
 ## Install requirements.txt
 
