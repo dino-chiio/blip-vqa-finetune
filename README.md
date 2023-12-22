@@ -7,7 +7,7 @@ This implementation applies the BLIP pre-trained model to solve the icon domain 
 | How many dots are there? | 36 |
 
 # Description
-
+**Note: The test dataset does not have labels. I evaluated the model via Kaggle competition and got 96% in accuracy manner. Obviously, you can use a partition of the training set as a testing set.
 ## Create data folder
 
 Copy all data following the example form
